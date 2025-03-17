@@ -114,3 +114,18 @@ h4 {
   transform: scale(1.1);
   background-color: #6a1b9a;
 }
+
+.portfolio a {
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  border-style: none;
+  text-decoration: none;
+  background-color: rebeccapurple;
+  color: white;
+  font-size: 20px;
+}
+
+.portfolio:hover {
+  transform: scale(1.2);
+}
